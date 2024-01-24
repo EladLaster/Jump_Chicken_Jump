@@ -3,14 +3,14 @@
 ## to see the game [Click Here](https://youtu.be/1-Exugukcr0)
 
 
-### מטרת המשחק :
+מטרת המשחק:
 
        משחק 1 נגד מחשב , התרנגול צריך לעבור את הכביש בלי להידרס על ידי מכוניות.
 
-### מקשים :
+מקשים:
 
        up - up arrow, down - down arrow, right - right arrow, left - left arrow.
-### קישורים ל scripts :
+קישורים ל scripts:
 
 תפקיד המחלקה CollisionLogger היא לשחקן - אחראית לניהול הטריגרים האפשריים בין התרנגול לשאר האובייקטים.
 script - [click here](https://github.com/EladLaster/Jump_Chicken_Jump/blob/main/Assets/Scripts/CollisionLogger.cs)
