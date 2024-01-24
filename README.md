@@ -30,4 +30,5 @@ script - [click here](https://github.com/EladLaster/Jump_Chicken_Jump/blob/main/
 
 
 תפקיד המחלקה Mover היא למכוניות - גורמת להם לזוז לכיוון מסויים במהירות מסויימת.
+
 script - [click here](https://github.com/EladLaster/Jump_Chicken_Jump/blob/main/Assets/Scripts/Mover.cs)
