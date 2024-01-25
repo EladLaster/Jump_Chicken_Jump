@@ -1,6 +1,8 @@
 # Jump_Chicken_Jump
 
-## to see the game [Click Here](https://youtu.be/1-Exugukcr0)
+## to the game [Click Here](https://videogameteam3.itch.io/chicken-jump)
+
+## to the trailer [Click Here](https://youtu.be/1-Exugukcr0)
 
 
 מטרת המשחק:
